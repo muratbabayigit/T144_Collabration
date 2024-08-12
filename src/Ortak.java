@@ -4,7 +4,5 @@ public class Ortak {
         System.out.println("Buralar karışacak vaziyet alın");
         System.out.println("Cezerye Guzeldir");
         System.out.println("herhangi bir sey");
-
-
     }
 }
